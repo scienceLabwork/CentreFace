@@ -11,7 +11,7 @@ You must be thinking that, This is similar to Apple's [Centre Stage](https://sup
 > *Note: This is an prototype not a real product so, there might be some errors*
 
 ## Getting Started
-___
+
 1. To start using this, you need to install OpenCV and Mediapipe.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;`pip install mediapipe`
 <br>
@@ -27,15 +27,15 @@ ___
 That's all. No extra steps needed!
 
 ## Website To visit
-____
+
 * [sciencelabwork](http://www.sciencelabwork.cf) <br>
 * [rudraspot](http://rudraspot.me)
 
 ## Contact Me
-___
+
 * [Instagram](https://www.instagram.com/rudra_shah_) <br>
 * [Twitter](https://www.twitter.com/labworkscience)
 
 ## Contributing
-___
+
 I welcome contributions. If you have any questions or suggestions, please open an issue, create a pull request or can you above contact information.
