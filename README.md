@@ -17,7 +17,7 @@ You must be thinking that, This is similar to Apple's [Centre Stage](https://sup
 &nbsp;&nbsp;&nbsp;&nbsp;`pip install opencv-python`
 <br>&nbsp;&nbsp;&nbsp;&nbsp;or<br>
 &nbsp;&nbsp;&nbsp;&nbsp;`pip install -r requirements.txt`<br>
-2. Run the python code to see the magic. <img src="https://media.giphy.com/media/cwlU7SYQbx3quBusa5/giphy.gif" width="22px"><br>
+2. Run the python code to see the magic.
 &nbsp;&nbsp;&nbsp;&nbsp; `python3 CentreFace.py`<br>
 
 That's all. No extra steps needed!
